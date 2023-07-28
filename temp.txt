@@ -1,0 +1,8 @@
+5/17
++ lambda functors
+	+ 为什么没有 capture list -> lambda 由函数指针实现
+	+ 为什么有~ -> 由类实现
+	+ 类 -> 函数指针 的转换？cpp Insights?
+
++ 菱形继承对虚继承的影响？破坏继承关系？
+	+ 例如 iostream -> istream, ostream -> basic_ios
